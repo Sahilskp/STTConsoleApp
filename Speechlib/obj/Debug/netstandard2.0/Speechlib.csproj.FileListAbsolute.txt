@@ -1,0 +1,9 @@
+C:\Education\Projects\SpeechToText\Speechlib\bin\Debug\netstandard2.0\Speechlib.deps.json
+C:\Education\Projects\SpeechToText\Speechlib\bin\Debug\netstandard2.0\Speechlib.dll
+C:\Education\Projects\SpeechToText\Speechlib\bin\Debug\netstandard2.0\Speechlib.pdb
+C:\Education\Projects\SpeechToText\Speechlib\obj\Debug\netstandard2.0\Speechlib.csprojAssemblyReference.cache
+C:\Education\Projects\SpeechToText\Speechlib\obj\Debug\netstandard2.0\Speechlib.AssemblyInfoInputs.cache
+C:\Education\Projects\SpeechToText\Speechlib\obj\Debug\netstandard2.0\Speechlib.AssemblyInfo.cs
+C:\Education\Projects\SpeechToText\Speechlib\obj\Debug\netstandard2.0\Speechlib.csproj.CoreCompileInputs.cache
+C:\Education\Projects\SpeechToText\Speechlib\obj\Debug\netstandard2.0\Speechlib.dll
+C:\Education\Projects\SpeechToText\Speechlib\obj\Debug\netstandard2.0\Speechlib.pdb
